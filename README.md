@@ -1,4 +1,4 @@
-<h1>Hi, I'm Riley, an <a href="https://linkedin.com/in/riley-krusky-9ab796232">IT</a>☺</h1>
+<h1>Hi, I'm Riley. I'm currently an <a href="https://linkedin.com/in/riley-krusky-9ab796232">Entry Level IT Student</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
